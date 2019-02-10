@@ -26,7 +26,7 @@
         position: relative;
 
         span { display: block; }
-        .title { font-weight: bolder; }
+        .title { font-weight: bold; }
         .author {
             a {
                 border-bottom: 1px dashed $theme-color;
@@ -36,8 +36,9 @@
                 }
             }
             > em {
-                border-bottom: 1px solid;
+                // border-bottom: 1px solid;
                 font-style: normal;
+                color: mediumblue;
             }
         }
         a.abstract, a.bibtex { cursor: pointer; }

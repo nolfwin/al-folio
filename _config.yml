@@ -25,7 +25,7 @@ orcid_id: # your ORCID ID
 contact_note: # >
   # Please check my email carefully before sending.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-69650504 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -93,7 +93,7 @@ scholar:
   style: apa
   locale: en
 
-  sort_by: year
+  sort_by: order
   order: descending
 
   source: /_bibliography/
